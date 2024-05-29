@@ -1,2 +1,3 @@
 # kitty.github.io
-Kitty'blog
+Hello，Welcome to Kitty'blog~
+Happy to everyday~
